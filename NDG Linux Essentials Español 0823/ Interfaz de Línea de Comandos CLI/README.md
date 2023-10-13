@@ -17,6 +17,5 @@ El terminal acepta lo que el usuario escribe y lo pasa a un shell. El shell inte
 ╰─λ cd Documents/                                                                                                                      0 (0.014s) < 16:49:24
 ╭─diego-landony at diego-landony-Vostro-3400 in ⌁/Documents
 ╰─λ mkdir hola-mundo                                                                                                                   0 (0.001s) < 16:49:33
-╭─diego-landony at diego-landony-Vostro-3400 in ⌁/Documents
-╰─λ ls    
+   
 ```
