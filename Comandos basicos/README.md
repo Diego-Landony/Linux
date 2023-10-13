@@ -835,6 +835,16 @@ Para repetir el comando número 5 del historial, se usa el signo de exclamación
 !5
 ```
 
+Algunos ejemplos adicionales del history:
+
+
+- ***history 5***	Muestra los últimos cinco comandos de la lista del historial
+- ***!!***	Ejecuta el último comando otra vez
+- ***!-5***	Ejecuta el quinto comando desde la parte inferior de la lista de historial
+- ***!ls***	Ejecuta el comando ls más reciente
+
+
+
 ## su
 
 El comando **su** permite cambiar de usuario en la terminal. Se puede usar para ejecutar comandos con los privilegios de otro usuario. Se puede usar con las siguientes opciones:
